@@ -4,7 +4,7 @@ Welcome to my portfolio website! This is where you can learn more about me, my p
 
 ## Introduction Video
 
-Check out this short introduction video to get a glimpse of what my portfolio website offers. In this video, I'll walk you through the different sections of my portfolio website, showcasing my projects, skills, and a little bit about myself.
+Check out this short introduction video to get a glimpse of what my portfolio website offers. 
 
 https://github.com/Manshay/My-Portfolio/assets/81351053/7c002a7f-9008-4fd7-bda6-e58b5da9e836
 
