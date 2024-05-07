@@ -24,6 +24,7 @@ Navigate to the project directory.
 
 Open the 'index.html' file in your web browser with the Live Server extension in VS Code.
 
+
 ***Thank you for visiting my portfolio website! 🚀***
 
 
